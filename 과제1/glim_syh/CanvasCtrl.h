@@ -13,7 +13,7 @@ private:
     double m_R=0.0;
     int m_pointR=10;
     int m_gardenThick=1;
-    int  m_dragIndex=-1;//µå·¹±× Á¶°Ç
+    int  m_dragIndex=-1;//ÂµÃ¥Â·Â¹Â±Ã— ÃÂ¶Â°Ã‡
     int  HitTestPointIndex(CPoint pt) const;
     bool m_dragging=false;
 public:
